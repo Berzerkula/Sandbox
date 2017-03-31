@@ -132,7 +132,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnMessage);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "SANDBOXFORM";
             ((System.ComponentModel.ISupportInitialize)(this.pb_HJ)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
